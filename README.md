@@ -1,2 +1,11 @@
-# crypto-dashboard
-🚀 Modern Crypto Dashboard with real-time price tracking, interactive charts, and a clean responsive UI built using JavaScript and CoinGecko API.
+# 🚀 Crypto Dashboard
+
+Modern crypto dashboard with live prices and charts.
+
+## Features
+- Live crypto prices
+- Chart visualization
+- Clean UI
+
+## How to run
+Open index.html in browser
